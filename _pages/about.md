@@ -5,4 +5,4 @@ title: "About 7562 InfoSec"
 
 7562 InfoSec is a cybersecurity blog covering threats, analysis, and practitioner insights.
 
-**Chris Gongre** is a cybersecurity professional holding a CISSP, PMP, and MS in Cybersecurity Risk & Strategy from NYU. A former Marine Corps CH-46E helicopter pilot with 11 years of service, he has assessed cybersecurity programs at major financial institutions and brings a practitioner's perspective to everything he writes.
+I am a cybersecurity professional holding a CISSP, PMP, CSM, and MS in Cybersecurity Risk & Strategy from NYU. Previously as security consultant I assessed cybersecurity and privacy programs at major financial institutions and now on the business side I bring a practitioner's perspective to everything I write.
