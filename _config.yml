@@ -19,10 +19,10 @@ paginate: 5
 paginate_path: /page:num/
 
 author:
-  name: "Chris Gongre"
+  name: "7562 Infosec"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "CISSP | Marine Corps Veteran | Cybersecurity Practitioner"
-  location: "Long Island, NY"
+  bio: "CISSP | Cybersecurity Practitioner"
+  location: "New York Metro Area"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
