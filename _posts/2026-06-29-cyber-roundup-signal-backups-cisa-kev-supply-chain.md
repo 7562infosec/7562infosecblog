@@ -3,7 +3,7 @@ layout: single
 title: "Cyber Roundup: Russia Targets Signal Backup Keys, CISA Drops Urgent Deadlines, Supply Chain Week"
 date: 2026-06-29 07:00:00 -0500
 categories: [roundup]
-tags: [cybersecurity, news, weekly]
+tags: [russia, apt, supply-chain]
 author_profile: true
 ---
 
