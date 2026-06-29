@@ -21,7 +21,7 @@ paginate_path: /page:num/
 author:
   name: "James Sullivan (Sully)"
   avatar: "/assets/images/bio-photo.svg"
-  bio: "CISSP | Cybersecurity Practitioner"
+  bio: "CISSP and Cybersecurity Practitioner"
   location: "New York Metro Area"
   links:
     - label: "GitHub"
