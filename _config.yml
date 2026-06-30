@@ -27,6 +27,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/7562infosec"
+    - label: "zeroslop.net"
+      icon: "fas fa-fw fa-bolt"
+      url: "https://zeroslop.net"
+    - label: "slopreport.net"
+      icon: "fas fa-fw fa-flag"
+      url: "https://slopreport.net"
 
 include:
   - _pages
