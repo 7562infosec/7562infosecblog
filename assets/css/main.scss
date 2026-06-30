@@ -1,0 +1,32 @@
+---
+# Override to add custom styles on top of Minimal Mistakes dark skin
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+// ============================================================
+// Sister site links styled as subtle buttons in the sidebar
+// ============================================================
+
+.author__urls {
+  a[href*="zeroslop"],
+  a[href*="slopreport"] {
+    display: block;
+    margin: 0.3em 0;
+    padding: 0.35em 0.7em;
+    background-color: rgba(255, 255, 255, 0.07);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 4px;
+    text-align: center;
+    font-size: 0.85em;
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.14);
+      border-color: rgba(255, 255, 255, 0.35);
+    }
+  }
+}
