@@ -33,4 +33,4 @@ Three separate supply chain attacks hit developer infrastructure this week. Hija
 
 I've watched this pattern build in financial services environments. Developers extend implicit trust to their tooling. Lock down your package manager configs. Audit GitHub Actions permissions and pin to commit hashes, not tags. Before letting an AI agent clone and set up an unfamiliar repo, know what you're authorizing it to run.
 
-Patch Cisco UCM. Check your Windchill version. Treat your Signal backup key like a root credential.
+Patch Cisco UCM. Check your Windchill version. Treat your Signal backup key like a root credential. 
