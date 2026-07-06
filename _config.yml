@@ -45,6 +45,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
+      date_format: "%B %-d, %Y"
       share: false
       related: true
   - scope:
