@@ -3,6 +3,7 @@ subtitle: "Cybersecurity from the practitioner's lens"
 description: "Cybersecurity insights, analysis, and commentary from a practitioner's perspective."
 url: "https://7562infosec.net"
 baseurl: ""
+future: true
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
