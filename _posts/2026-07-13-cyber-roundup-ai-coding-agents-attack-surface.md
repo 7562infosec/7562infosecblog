@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cyber Roundup: AI Coding Agents Are the New Attack Surface"
+title: "Cyber Roundup: Ghostcommit, MCP Scanning, and the ShareFile Shutdown"
 date: 2026-07-13 07:00:00 -0500
 categories: [roundup]
 tags: [ai-security, supply-chain, zero-day]
