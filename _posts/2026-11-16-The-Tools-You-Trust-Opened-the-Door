@@ -21,6 +21,6 @@ The tools you bought to manage risk carried most of the risk this week.
 
 **SMS codes are readable inside the carrier.** Enea attributed SilentAir to a state-level group operating inside Asian mobile operators, intercepting calls and texts, mostly targeting Taiwan. If SMS codes still protect privileged access anywhere in your environment, that is a finding, not a control.
 
-**Action item:** Inventory every API key and RMM credential a third party holds on your behalf and rotate them this week. Then pull Check Point gateway logs back to October 30 and hunt for TSGA. If a vendor can't tell you which of your keys they hold, you have your next audit finding.
+**Action item:** Inventory every API key and RMM credential a third party holds on your behalf and rotate them this week. Then pull Check Point gateway logs back to October 30 and hunt for TSGA. If a vendor can't tell you which of your keys they hold, you have your next audit finding. 
 
 
